@@ -1,0 +1,15 @@
+{
+  "name": "d3-binaryy-searchh-npm",
+  "version": "1.0.2",
+  "description": "npm package to create a binary search algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search"
+  ],
+  "author": "Umair",
+  "license": "ISC"
+}
